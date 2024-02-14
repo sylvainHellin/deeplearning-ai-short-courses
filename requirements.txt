@@ -17,3 +17,4 @@ pinecone-text==0.7.1
 deepface==0.0.79
 notebook
 ipython
+langchain
